@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+statsmodels
+prophet
+lightgbm
+xgboost
+holidays
+jupyter
+streamlit
