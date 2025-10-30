@@ -45,23 +45,6 @@ The goal is to make forecasting **simple, interpretable, and visually engaging**
 
 ---
 
-## Folder Structure
-
-Sales Forecast/
-│
-├── app/
-│   └── streamlit_app.py           # Main Streamlit application
-│
-├── data/
-│   └── processed/
-│       ├── daily_sales.csv        # Historical sales data
-│       ├── features.csv           # Engineered feature set
-│       └── test_predictions.csv   # Optional test data
-│
-├── models/
-│   └── lightgbm_model.pkl         # Trained LightGBM model
-│
-└── README.md
 
 ## How to Run the App
 ### 1. Clone the repository
